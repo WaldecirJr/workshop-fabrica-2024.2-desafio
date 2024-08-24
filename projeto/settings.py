@@ -78,13 +78,12 @@ WSGI_APPLICATION = 'projeto.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'viagem_planejada',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'db_viagem',
         'USER': 'root',
         'PASSWORD': 'root',
         'HOST': 'localhost',
-        'PORT': '8889',
-        
+        'PORT': '5432',
     }
 }
 
