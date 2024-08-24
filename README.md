@@ -31,3 +31,6 @@ Armazenamento de Dados: As informações sobre temperatura e condições climát
 Backend: Django, Django Rest Framework
 Banco de Dados: PostgreSQL (ou outro banco de dados relacional suportado pelo Django)
 APIs de Clima: OpenWeatherMap
+
+
+** Estou com dificuldade para conseguir consumir a API gratuita de previsão do tempo (OpenWeatherMap) ** 
